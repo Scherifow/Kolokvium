@@ -7,7 +7,8 @@ Kolokvium, kde představuji hlavní cíl disertační práce a také výzkumné 
 
 ### Co je kolokvium?
 [Podle směrnice děkana](http://www.ef.tul.cz/document/727)
-Článek 7
+
+#### Článek 7
 Kolokvium
 1. Součástí studijních povinností je absolvování kolokvia, které se koná na začátku druhého roku
 studia na příslušné školicí katedře. Kolokvium má podobu odborné rozpravy k tématu disertační
